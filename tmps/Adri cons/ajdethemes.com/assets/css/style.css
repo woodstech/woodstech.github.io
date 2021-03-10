@@ -1,0 +1,311 @@
+body {
+    font-family: 'Poppins', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #fff;
+    background-image: linear-gradient(225deg, #396AFC 0%, #2948FF 100%);
+}
+
+a {
+    color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin-bottom: unset;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 600;
+}
+
+p,
+a {
+    font-weight: 300;
+}
+
+img {
+    align-self: flex-start;
+}
+
+
+/* 
+    Columns
+---------------*/
+
+.grid {
+    display: flex;
+    flex-flow: column;
+    margin: auto;
+    padding: 0 15px 0 15px;
+    max-width: 1140px;
+}
+
+.col-1,
+.col-2 {
+    display: flex;
+    flex-flow: column;
+    max-width: 100%;
+    margin: auto;
+}
+
+@media (min-width: 992px) {
+    .col-1,
+    .col-2 {
+        margin: unset;
+    }
+
+    .grid {
+        flex-flow: row;
+        justify-content: space-between;
+    }
+
+    .col-1 {
+        width: 100%;
+        max-width: 30%;
+    }
+
+    .col-2 {
+        width: 100%;
+        max-width: 600px;
+    }
+}
+
+
+/* 
+    Header
+---------------*/
+
+header {
+    position: relative;
+    top: 95px;
+    padding-bottom: 95px;
+}
+
+.brand-cta {
+    position: sticky;
+    top: 95px;
+}
+
+.brand-cta .logo {
+    width: 100%;
+    height: auto;
+}
+
+.brand-cta .text-wrapper {
+    position: relative;
+    margin-top: 30px;
+    text-align: center;
+    transform: rotate(-9deg);
+}
+
+.brand-cta h1 {
+    margin-top: 30px;
+    font-size: 22px;
+}
+
+.brand-cta .arrow {
+    position: absolute;
+    right: -30px;
+    display: none;
+}
+
+@media (min-width: 576px) {
+    .brand-cta .arrow {
+        display: initial;
+    }
+}
+
+.brand-cta a.cta-brand-contact {
+    border-bottom: 1px solid rgba(255,255,255, 0);
+    transition: all 0.35s;
+}
+
+.brand-cta a.cta-brand-contact:hover,
+.brand-cta a.cta-brand-contact:focus {
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    text-decoration: none;
+}
+
+
+/* 
+    Theme List
+-------------------*/
+
+main.themes-list {
+    position: relative;
+    top: 95px;
+}
+
+.t-item {
+    margin-bottom: 60px;
+}
+
+.t-item .img-wrapper {
+    border-radius: 12px;
+    border: 5px solid rgba(255,255,255, .4);
+    overflow: hidden;
+    transition: all 0.35s;
+}
+
+.t-item .img-wrapper:hover {
+    border-color: #fff;
+}
+
+.t-item .img-wrapper img {
+    width: 100%;
+    height: auto;
+}
+
+.t-item ul.t-item-control {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px auto 0 auto;
+    padding: 0;
+}
+
+.t-item ul.t-item-control li {
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+    font-size: 14px;
+}
+
+.t-item ul.t-item-control li:after {
+    content: '';
+    display: block;
+    margin-left: 10px;
+    width: 1px;
+    height: 14px;
+    background: #fff;
+}
+
+.t-item ul.t-item-control li:last-child:after {
+    content: none;
+    padding-right: unset;
+}
+
+.t-item ul.t-item-control li a {
+    border-bottom: 1px solid rgba(255,255,255, 0);
+    transition: all 0.35s;
+}
+
+.t-item ul.t-item-control li a:hover,
+.t-item ul.t-item-control li a:focus {
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+
+
+/* 
+    CTA - Newsletter
+----------------------*/
+
+.cta-newsletter {
+    margin-top: 95px;
+}
+
+.cta-newsletter h3 {
+    display: block;
+    margin-bottom: 40px;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    text-align: center;
+}
+
+.cta-newsletter h3 > b {
+    font-weight: 600;
+}
+
+.f-control {
+    position: relative;
+}
+
+.f-control input {
+    padding-left: 30px;
+    width: 100%;
+    height: 86px;
+    border-radius: 12px;
+    border: solid 5px rgba(255,255,255, .4);
+    background: none;
+    font-size: 24px;
+    color: #fff;
+    transition: all 0.35s;
+}
+
+.f-control input:hover,
+.f-control input:focus {
+    outline: none;
+    border-color: #fff;
+}
+
+.f-control input::placeholder {
+    color: rgba(255,255,255, .4);
+}
+
+.f-control button {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px;
+    height: 61px;
+    border: none;
+    border-radius: 10px;
+    background: #fff;
+    font-size: 24px;
+    font-weight: 600;
+    color: #325CFD;
+    transition: all 0.35s;
+}
+
+.f-control button:hover,
+.f-control button:focus {
+    transform: scale(0.97);
+    opacity: .95;
+}
+
+@media (max-width: 576px) {
+    .f-control button {
+        position: relative;
+        top: unset;
+        right: unset;
+        margin-top: 15px;
+        width: 100%;
+    }
+}
+
+
+/* 
+    Footer
+----------------------*/
+
+footer {
+    margin-top: 95px;
+    margin-bottom: 30px;
+}
+
+footer a {
+    transition: all 0.35s;
+}
+
+footer a:hover,
+footer a:focus {
+    text-decoration: none;
+    color: #fff;
+}
