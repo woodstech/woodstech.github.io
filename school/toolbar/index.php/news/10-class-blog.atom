@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">News</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://demo.joomdev.com"/>
+	<id>https://demo.joomdev.com/gurukul/toolbar/index.php/news/10-class-blog</id>
+	<updated>2021-03-10T11:08:05+00:00</updated>
+	<author>
+		<name>JD Gurukul</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://demo.joomdev.com/gurukul/toolbar/index.php/news/10-class-blog?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Steps to Guide Children</title>
+		<link rel="alternate" type="text/html" href="https://demo.joomdev.com/gurukul/toolbar/index.php/news/10-class-blog/18-steps-to-guide-children-without-punishment"/>
+		<published>2020-09-03T14:31:40+00:00</published>
+		<updated>2020-09-03T14:31:40+00:00</updated>
+		<id>https://demo.joomdev.com/gurukul/toolbar/index.php/news/10-class-blog/18-steps-to-guide-children-without-punishment</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://demo.joomdev.com/gurukul/toolbar/images/blog/students-lifestyle-e-learning-with-laptop-PQC9H6B.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&quot;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://demo.joomdev.com/gurukul/toolbar/images/blog/students-lifestyle-e-learning-with-laptop-PQC9H6B.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&quot;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled&lt;/p&gt;</content>
+		<category term="Class Blog" />
+	</entry>
+</feed>

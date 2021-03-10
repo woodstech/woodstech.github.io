@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>News</title>
+		<description><![CDATA[]]></description>
+		<link>https://demo.joomdev.com/gurukul/toolbar/index.php/news/14-group-blog</link>
+		<lastBuildDate>Wed, 10 Mar 2021 11:08:16 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://demo.joomdev.com/gurukul/toolbar/index.php/news/14-group-blog?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Sports in School</title>
+			<link>https://demo.joomdev.com/gurukul/toolbar/index.php/news/14-group-blog/15-sports-in-school</link>
+			<guid isPermaLink="true">https://demo.joomdev.com/gurukul/toolbar/index.php/news/14-group-blog/15-sports-in-school</guid>
+			<description><![CDATA[<p><img src="https://demo.joomdev.com/gurukul/toolbar/images/blog/female-high-school-basketball-team-passing-ball.jpg" /></p><p>"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled</p>]]></description>
+			<category>Group Blog</category>
+			<pubDate>Thu, 03 Sep 2020 14:31:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>Trouble with Time-Outs </title>
+			<link>https://demo.joomdev.com/gurukul/toolbar/index.php/news/14-group-blog/19-trouble-with-time-outs</link>
+			<guid isPermaLink="true">https://demo.joomdev.com/gurukul/toolbar/index.php/news/14-group-blog/19-trouble-with-time-outs</guid>
+			<description><![CDATA[<p><img src="https://demo.joomdev.com/gurukul/toolbar/images/blog/multinational-group-of-cheerful-students-studying.jpg" /></p><p>"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled</p>]]></description>
+			<category>Group Blog</category>
+			<pubDate>Thu, 03 Sep 2020 14:31:40 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

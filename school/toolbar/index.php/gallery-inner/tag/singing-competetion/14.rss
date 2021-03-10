@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/gurukul/toolbar/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/gurukul/toolbar/components/com_tz_portfolio_plus/templates/besley/css/template.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery Inner</title>
+		<description><![CDATA[]]></description>
+		<link>https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/tag/singing-competetion/14</link>
+		<lastBuildDate>Wed, 10 Mar 2021 11:17:07 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/tag/singing-competetion/14?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Singing Competetion</title>
+			<link>https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/singing-competetion/13</link>
+			<guid isPermaLink="true">https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/singing-competetion/13</guid>
+			<description><![CDATA[<a href="https://demo.joomdev.com/gurukul/toolbar//gurukul/toolbar/index.php/gallery-inner/singing-competetion/13"><img src="https://demo.joomdev.com/gurukul/toolbar/media/tz_portfolio_plus/article/cache/singing-competetion-13_o.jpg" alt="Singing Competetion"/></a>]]></description>
+			<author>admin@admin.com (Super User)</author>
+			<category>Events</category>
+			<pubDate>Tue, 15 Jan 2019 11:02:31 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/gurukul/toolbar/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/gurukul/toolbar/components/com_tz_portfolio_plus/templates/besley/css/template.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery Inner</title>
+		<description><![CDATA[]]></description>
+		<link>https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/tag/tennis/6</link>
+		<lastBuildDate>Wed, 10 Mar 2021 11:18:28 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/tag/tennis/6?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Basketball</title>
+			<link>https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/basketball/1</link>
+			<guid isPermaLink="true">https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/basketball/1</guid>
+			<description><![CDATA[<a href="https://demo.joomdev.com/gurukul/toolbar//gurukul/toolbar/index.php/gallery-inner/basketball/1"><img src="https://demo.joomdev.com/gurukul/toolbar/media/tz_portfolio_plus/article/cache/basketball-1_o.jpg" alt="Basketball"/></a>]]></description>
+			<author>admin@admin.com (Super User)</author>
+			<category>Sport</category>
+			<pubDate>Tue, 15 Jan 2019 06:26:59 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/gurukul/toolbar/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/gurukul/toolbar/components/com_tz_portfolio_plus/templates/besley/css/template.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Gallery Inner</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://demo.joomdev.com"/>
+	<id>https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/category/5-events</id>
+	<updated>2021-03-10T11:16:56+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/category/5-events?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Dancing</title>
+		<link rel="alternate" type="text/html" href="https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/dancing/14"/>
+		<published>2019-01-15T11:57:17+00:00</published>
+		<updated>2019-01-15T11:57:17+00:00</updated>
+		<id>https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/dancing/14</id>
+		<author>
+			<name>Super User</name>
+			<email>admin@admin.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://demo.joomdev.com/gurukul/toolbar//gurukul/toolbar/index.php/gallery-inner/dancing/14&quot;&gt;&lt;img src=&quot;https://demo.joomdev.com/gurukul/toolbar/media/tz_portfolio_plus/article/cache/dancing-14_o.jpg&quot; alt=&quot;Dancing&quot;/&gt;&lt;/a&gt;</summary>
+		<content type="html">&lt;a href=&quot;https://demo.joomdev.com/gurukul/toolbar//gurukul/toolbar/index.php/gallery-inner/dancing/14&quot;&gt;&lt;img src=&quot;https://demo.joomdev.com/gurukul/toolbar/media/tz_portfolio_plus/article/cache/dancing-14_o.jpg&quot; alt=&quot;Dancing&quot;/&gt;&lt;/a&gt;</content>
+		<category term="Events" />
+	</entry>
+	<entry>
+		<title>Singing Competetion</title>
+		<link rel="alternate" type="text/html" href="https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/singing-competetion/13"/>
+		<published>2019-01-15T11:02:31+00:00</published>
+		<updated>2019-01-15T11:02:31+00:00</updated>
+		<id>https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/singing-competetion/13</id>
+		<author>
+			<name>Super User</name>
+			<email>admin@admin.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://demo.joomdev.com/gurukul/toolbar//gurukul/toolbar/index.php/gallery-inner/singing-competetion/13&quot;&gt;&lt;img src=&quot;https://demo.joomdev.com/gurukul/toolbar/media/tz_portfolio_plus/article/cache/singing-competetion-13_o.jpg&quot; alt=&quot;Singing Competetion&quot;/&gt;&lt;/a&gt;</summary>
+		<content type="html">&lt;a href=&quot;https://demo.joomdev.com/gurukul/toolbar//gurukul/toolbar/index.php/gallery-inner/singing-competetion/13&quot;&gt;&lt;img src=&quot;https://demo.joomdev.com/gurukul/toolbar/media/tz_portfolio_plus/article/cache/singing-competetion-13_o.jpg&quot; alt=&quot;Singing Competetion&quot;/&gt;&lt;/a&gt;</content>
+		<category term="Events" />
+	</entry>
+	<entry>
+		<title>Yoga</title>
+		<link rel="alternate" type="text/html" href="https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/yoga/12"/>
+		<published>2019-01-15T11:01:39+00:00</published>
+		<updated>2019-01-15T11:01:39+00:00</updated>
+		<id>https://demo.joomdev.com/gurukul/toolbar/index.php/gallery-inner/yoga/12</id>
+		<author>
+			<name>Super User</name>
+			<email>admin@admin.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://demo.joomdev.com/gurukul/toolbar//gurukul/toolbar/index.php/gallery-inner/yoga/12&quot;&gt;&lt;img src=&quot;https://demo.joomdev.com/gurukul/toolbar/media/tz_portfolio_plus/article/cache/yoga-12_o.jpg&quot; alt=&quot;Yoga&quot;/&gt;&lt;/a&gt;</summary>
+		<content type="html">&lt;a href=&quot;https://demo.joomdev.com/gurukul/toolbar//gurukul/toolbar/index.php/gallery-inner/yoga/12&quot;&gt;&lt;img src=&quot;https://demo.joomdev.com/gurukul/toolbar/media/tz_portfolio_plus/article/cache/yoga-12_o.jpg&quot; alt=&quot;Yoga&quot;/&gt;&lt;/a&gt;</content>
+		<category term="Events" />
+	</entry>
+</feed>

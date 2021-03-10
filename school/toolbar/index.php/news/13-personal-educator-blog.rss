@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>News</title>
+		<description><![CDATA[]]></description>
+		<link>https://demo.joomdev.com/gurukul/toolbar/index.php/news/13-personal-educator-blog</link>
+		<lastBuildDate>Wed, 10 Mar 2021 11:08:11 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://demo.joomdev.com/gurukul/toolbar/index.php/news/13-personal-educator-blog?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Tips Regarding Education</title>
+			<link>https://demo.joomdev.com/gurukul/toolbar/index.php/news/13-personal-educator-blog/14-five-tips-regarding-education</link>
+			<guid isPermaLink="true">https://demo.joomdev.com/gurukul/toolbar/index.php/news/13-personal-educator-blog/14-five-tips-regarding-education</guid>
+			<description><![CDATA[<p><img src="https://demo.joomdev.com/gurukul/toolbar/images/blog/young-female-student-outdoors-CEQJ273.jpg" /></p><p>"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled</p>]]></description>
+			<category>Personal Educator Blog</category>
+			<pubDate>Thu, 03 Sep 2020 14:31:40 +0000</pubDate>
+		</item>
+		<item>
+			<title> What to Say Your Child</title>
+			<link>https://demo.joomdev.com/gurukul/toolbar/index.php/news/13-personal-educator-blog/16-what-to-say-to-empathize-better-with-your-child</link>
+			<guid isPermaLink="true">https://demo.joomdev.com/gurukul/toolbar/index.php/news/13-personal-educator-blog/16-what-to-say-to-empathize-better-with-your-child</guid>
+			<description><![CDATA[<p><img src="https://demo.joomdev.com/gurukul/toolbar/images/blog/diversity-students-learning-in-the-classroom-PPFWKXL.jpg" /></p><p>"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled</p>]]></description>
+			<category>Personal Educator Blog</category>
+			<pubDate>Thu, 03 Sep 2020 14:31:40 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
